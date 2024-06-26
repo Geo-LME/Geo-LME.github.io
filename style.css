@@ -1,5 +1,5 @@
 body {
-    background-color: #ffdbb5;
+    background-color: #fcf7f8;
     color: #1a1a1a;
     line-height: 1.8em;
     -moz-hyphens: auto;
@@ -37,8 +37,8 @@ u {
     font-weight: bold;
 }
 
-a { color: #419d78; }
-a:hover {color: #419d78;}
+a { color: #f26419; }
+a:hover {color: #e0a458;}
 .row a {text-decoration: none;}
 li {font-size: 12pt;}
 
@@ -52,24 +52,24 @@ li {font-size: 12pt;}
     font-weight: bold;
 }
 .navbar {
-    border-bottom: 12px solid #c08497;
-    background-color: #2d3047;
+    border-bottom: 12px solid #33658a;
+    background-color: #2f4858;
 }
 .navbar-top a {
-    color: #419d78;
+    color: #f26419;
 }
 .navbar a:hover {
     color: #e0a458;
 }
 
-.nav-link {color: #e0a458;}
+.nav-link {color: #f6ae2d;}
 .nav-link.active {
     color: #ffdbb5;
     background: #c08497;
 }
 .nav-item li.active>a, .nav-item a:hover, .nav-item a:focus, .nav-itme li.open>a{
     color: #ffdbb5;
-    background: #c08497 !important;
+    background: #86bbd8 !important;
     outline: 0;
 }
 
@@ -106,7 +106,7 @@ li {font-size: 12pt;}
     max-width: 900px;
     margin: 0 auto;
     padding: 40px 4px 0px 4px;
-    background-color: #ffdbb5;
+    background-color: #fcf7f8;
 }
 .jumbotron > .title {
     font-size: 18pt;
@@ -222,8 +222,8 @@ tr {
 
 .icon {
     display: inline-block;
-    background: #e0a458;
-    color: #2d3047;
+    background: #86bbd8;
+    color: #2f4858;
     padding: 10px;
     cursor: pointer;
     border-radius: 5px;
@@ -232,8 +232,8 @@ tr {
 }
 
 .icon:hover {
-    background: #c08497;
-    color: #419d78;
+    background: #33658a;
+    color: #dcdcdc;
 }
 
 .col-button {
@@ -241,10 +241,10 @@ tr {
 }
 
 .btn {
-    background: #2d3047;
+    background: #2f4858;
     border: 0pt;
 }
 .btn:hover {
-    background: #c08497;
+    background: #86bbd8;
     border: 0pt;
 }
