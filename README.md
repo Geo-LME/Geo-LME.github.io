@@ -1,2 +1,2 @@
-# geometric-robot-learning.github.io
-Website for Workshop on Geometric Robot Learning
+# geo-lme.github.io
+Website for Workshop on Geometry in the Large Model Era
